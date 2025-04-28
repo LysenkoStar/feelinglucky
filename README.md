@@ -5,8 +5,8 @@
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/LysenkoStar/feelinglucky>
-cd <feelinglucky>
+git clone https://github.com/LysenkoStar/feelinglucky
+cd feelinglucky
 ```
 
 2. Build and run containers:
