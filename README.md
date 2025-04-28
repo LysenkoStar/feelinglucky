@@ -5,7 +5,7 @@
 1. Clone the repository:
 
 ```bash
-git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
+git clone <https://github.com/LysenkoStar/feelinglucky>
 cd <feelinglucky>
 ```
 
